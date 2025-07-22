@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "colorful-geometric-triangles-sfhnk812bnbaibii-sfhnk812bnbaibii.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
